@@ -11,7 +11,7 @@ Before you begin adding new family crests, ensure that you have the shield image
 - **Small Outline Shields:** `media/userinterface/icons/shields/smalloutline`
   - Utilized, for instance, alongside the names of dynasty members.
 
-Ensure that your shield images are appropriately sized and formatted to meet the game's requirements.
+Ensure that your shield images are appropriately sized (squared, e.g. 512px or 256px) and formatted (.png) to meet the game's requirements.
 
 ### 2. Edit the `FamilyCrestDescsDefault.oc` File:
 
