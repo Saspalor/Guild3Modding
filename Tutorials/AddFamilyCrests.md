@@ -42,4 +42,13 @@ To ensure that your new family crest displays correctly in the game, you may nee
 
 After implementing these changes, save the `FamilyCrestDescsDefault.oc` file and any other relevant files. Launch the game and create or select a family to check if your new crest is available. If you encounter any issues, thoroughly review your code, file paths, and image formats.
 
+**TL;DR:**
+
+1. Prepare shield images and place them in the specified folders.
+2. Modify the `FamilyCrestDescsDefault.oc` file to define new crests.
+3. You may need to work on textures for dynasty flags.
+4. Create an entry and definition in the extended glyph sheet for proper display.
+5. Test your changes in the game to ensure they work.
+
+
 Following these steps, you should be able to incorporate new shields for family crests in *The Guild 3*. Happy modding!
