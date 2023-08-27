@@ -18,7 +18,7 @@ Ensure that your shield images are appropriately sized (squared, e.g. 512px or 2
 To define your new family crests, you'll need to modify the `FamilyCrestDescsDefault.oc` file located in `media/base/guild3`. This file defines the crest and links to other files, including the in-game color for all the family crests in the game. Here's an example of how to add a new crest:
 
 ```cpp
-Crests44 extend FamilyCrestDesc
+Crests33 extend FamilyCrestDesc
 {
     Id = 33; // Should correspond to the filename of your image.
     TextureName = "Shield33"; // Requires further investigation.
